@@ -1,4 +1,5 @@
 name: "Reto"
+output_dir: docs
 navbar:
   title: "Reto"
   left:
