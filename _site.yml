@@ -1,0 +1,8 @@
+name: "Reto"
+navbar:
+  title: "Reto"
+  left:
+    - text: "Heroku"
+      href: index.html
+    - text: "Firebase"
+      href: about.html
